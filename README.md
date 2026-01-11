@@ -67,3 +67,12 @@ This project is a beginner-friendly Raspberry Pi “spy mission” style **laser
 - Blue rail → GND  
 - Keep LDR + resistor on separate rows for easy troubleshooting  
 - Label wires or color-code for clarity
+
+
+# Adding Laser Module 
+
+- Connect Raspberry in +/- (4 Power; 14 Ground)
+- Add Laser inside breadboard (a-e) in its own row
+- Connect +/- with Laser breadboard row
+- Connect Raspberry Pie GPIO 17 (Pin 11) with S inside breadboard
+
